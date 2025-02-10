@@ -1,2 +1,4 @@
 # Furhat leadership
-Dark triad robot leader in Marshmallow challenge game 
+This repository contains the code for two distinct leadership scripts designed for a robot leader in a human-robot interaction experiment. The scripts are programmed to exhibit two contrasting leadership styles: one reflecting dark triad traits (Machiavellianism, narcissism, and psychopathy) and the other demonstrating light triad traits (humanism, Kantianism, and faith in humanity).
+
+The scripts control the robot's behavior and communication style during a collaborative tower-building task, including time reminders, motivational statements, and responses to team dynamics. The leadership styles aim to assess how personality traits influence participants' perceptions, task engagement, and performance. These scripts were a part of the experimental setup for studying human-robot team interactions and leadership effectiveness.
